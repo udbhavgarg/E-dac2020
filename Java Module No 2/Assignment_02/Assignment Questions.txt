@@ -1,0 +1,11 @@
+1	Write a program to print table of any entered number using loop.
+2.	Write a program to reverse a given number.
+3.	Program to check whether number is prime or not.
+4.	Calculate  series : 12+22+32+42+.........+n2
+5.	Print all prime numbers between two given numbers. [ break continue ]
+6.	Program to show sum and average of 10 element array. Accept array elements from user. 
+7.	Sort a ten element array in descending order.
+8.	Write a program to reverse the array elements.
+9.	Write a program to search an element in the array.
+10.	Write the program to find the sum of even elements and sum of odd elements present in the array of integer type.
+
